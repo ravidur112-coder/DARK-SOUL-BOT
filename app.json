@@ -1,8 +1,8 @@
 {
-  "name": "DANUWA-MD",
-  "description": "Javascript WhatsApp bot made by Danuka Dissanayake",
-  "logo": "https://github.com/DANUWA-MD/DANUWA-MD/blob/main/images/DANUWA-MD.png?raw=true",
-  "keywords": ["DANUWA-MD"],
+  "name": "DARK SOUL-MD",
+  "description": "Javascript WhatsApp bot made by RAVIDU LAKSHAN",
+  "logo": "https://Images/eea947509079e243a378b4c39d3de22f.jpg",
+  "keywords": ["DARK SOUL-MD"],
   "success_url": "/",
 
   "env": {
